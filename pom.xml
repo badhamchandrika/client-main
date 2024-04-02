@@ -25,9 +25,9 @@
 	<name>client-main</name>
 	<description>client-main</description>
 	<modules>
-		<module>project1</module>
-		<module>project2</module>
-		<module>project3</module>
+		<module>project-web</module>
+		<module>project-travel</module>
+		<module>project-ai</module>
 	</modules>
 	<properties>
 		<aem.host>localhost</aem.host>
