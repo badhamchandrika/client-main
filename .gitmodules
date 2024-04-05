@@ -8,12 +8,3 @@
 [submodule "project3"]
 	path = project3
 	url = https://github.com/badhamchandrika/project3.git
-[submodule "project-web"]
-	path = project-web
-	url = https://github.com/badhamchandrika/project-web.git
-[submodule "project-travel"]
-	path = project-travel
-	url = https://github.com/badhamchandrika/project-travel.git
-[submodule "project-ai"]
-	path = project-ai
-	url = https://github.com/badhamchandrika/project-ai.git
