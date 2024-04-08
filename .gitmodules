@@ -5,6 +5,8 @@
 [submodule "project2"]
 	path = project2
 	url = https://github.com/badhamchandrika/project2.git
+	branch = main
 [submodule "project3"]
 	path = project3
 	url = https://github.com/badhamchandrika/project3.git
+	branch = main
